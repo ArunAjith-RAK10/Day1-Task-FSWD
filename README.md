@@ -1,6 +1,3 @@
-# Day-1-Taskgit
-Guvi Day 1 Task
-
 
 1.**Write a blog difference between HTTP1.1 vs HTTP2**
    
