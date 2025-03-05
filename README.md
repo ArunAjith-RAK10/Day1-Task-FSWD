@@ -5,4 +5,4 @@
 
 2.**Write a blog about objects and its internal representation in javascript**
    
-    Find The Blog Link :link: => https://medium.com/@arun72453/2-write-a-blog-about-objects-and-its-internal-representation-in-java-script-183c2cb4d02e
+    Find The Blog Link :link: => https://medium.com/@arun72453/1-write-a-blog-on-the-difference-between-document-and-window-objects-621328012c52
